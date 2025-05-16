@@ -54,8 +54,10 @@ npm install --save react-tabs
 ```
 
 ## 3. React Router Setup
+
+### 3.1 Create Routes
 ```jsx
-import { createBrowserRouter, RouterProvider } from "react-router";
+import { createBrowserRouter } from "react-router";
 
 const router = createBrowserRouter([
   {
@@ -74,16 +76,23 @@ const router = createBrowserRouter([
     ],
   },
 ]);
+```
 
+### 3.2 Import Router Provider
+```jsx
+import { RouterProvider } from "react-router";
+```
+
+```jsx
 <RouterProvider router={router} />
 ```
 
-## 5. Development Server (Local)
+## 4. Development Server (Local)
 ```bash
 npm run dev
 ```
 
-## 6. Build for Production
+## 5. Build for Production
 ```bash
 npm run build
 ```
