@@ -82,7 +82,7 @@ npm run dev
 ```
 
 
-### 5. Additional Utilities
+## 5. Additional Utilities
 
 #### [Axios](https://axios-http.com/ "target='_blank'")
 
