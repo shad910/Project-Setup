@@ -6,6 +6,7 @@
 npm create vite@latest my-react-app -- --template react
 ```
 
+
 ## 2. Install Core Packages
 - [React-Router](https://reactrouter.com/ "target='_blank'")
 - [React-Icons](https://react-icons.github.io/react-icons/ "target='_blank'")
@@ -32,6 +33,7 @@ tailwindcss(),
 @import "tailwindcss";
 @plugin "daisyui";
 ```
+
 
 ## 3. React Router Setup
 
@@ -72,11 +74,13 @@ import { RouterProvider } from "react-router";
 <RouterProvider router={router} />
 ```
 
+
 ## 4. Development Server (Local)
 
 ```bash
 npm run dev
 ```
+
 
 ### 5. Additional Utilities
 
@@ -121,6 +125,7 @@ npm install react-fast-marquee --save
 ```bash
 npm install --save react-tabs
 ```
+
 
 ## 6. Build for Production
 
