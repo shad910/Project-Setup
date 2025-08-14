@@ -45,7 +45,7 @@ From beginner-friendly static sites to dynamic, data-driven applications, each p
 
 | Project | Assignment No. | Description | Link |
 |---------|----------------|-------------|------|
-| **JavaScriptCodes** | 04 | Few Arithmetic Terms. | [🚀] (https://github.com/shad910/JS-Practice-Task/blob/main/Assignment-04-Category-002.js) |
+| **JavaScriptCodes** | 04 | Few Arithmetic Terms. | [🚀](https://github.com/shad910/JS-Practice-Task/blob/main/Assignment-04-Category-002.js) |
 | **DevBoard** | 05 | Task management platform for developers to track and manage work efficiently. | [🚀](https://shad910.github.io/P15-Dev-Board/) |
 
 ---
